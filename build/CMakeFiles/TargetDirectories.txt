@@ -1,0 +1,3 @@
+/home/ayaan/git_repo/test/build/CMakeFiles/rebuild_cache.dir
+/home/ayaan/git_repo/test/build/CMakeFiles/edit_cache.dir
+/home/ayaan/git_repo/test/build/CMakeFiles/test.dir
