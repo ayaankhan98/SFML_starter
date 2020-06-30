@@ -1,2 +1,2 @@
 # SFML_starter
-SFML setup
+SFML headstarter
