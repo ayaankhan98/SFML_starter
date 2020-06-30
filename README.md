@@ -1,2 +1,2 @@
 # SFML_starter
-learning SFML
+SFML setup
